@@ -10,7 +10,5 @@ To address the spatial limitation, Hilbert Curve is a classic space-filling curv
 # 3. Usage
 To run the tool, open: E-HilbertEPIs.py.
 
-# 4. Output
-
-# 5. Disclaimer
+# 4. Disclaimer
 The executable software and the source code of E-HilbertEPIs is distributed free of charge as it is to any non-commercial users. The authors hold no liabilities to the performance of the program.
