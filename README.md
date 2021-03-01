@@ -8,7 +8,7 @@ All sequences are unified into fixed length. The length of enhancer sequence is 
 To address the spatial limitation, Hilbert Curve is a classic space-filling curve, proposed to encode enhancer and promoter sequences which can convert a one-dimensional sequence into a three-dimensional matrix vector, so it can represent enhancer-promoter long range interaction and the spatial structure.
 
 # 3. Usage
-
+To run the tool, open: E-HilbertEPIs.py.
 
 # 4. Output
 
